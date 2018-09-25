@@ -25,6 +25,6 @@ public class HelloMiddleEarth
 	//NB:
 		//1. Always pull before working on anything
 		//2. commit then attempt to push
-		//3.resolve conflicts manually
-		//4. in git staging- drag from unstaged to staged changes then commit and push
+		//3.resolve conflicts manually 
+		//4. in git staging- drag from unstaged to staged changes and fix the conflict then commit and push
 }
