@@ -17,9 +17,9 @@ public class HelloMiddleEarth
 
 	// I am adding a comment in Git and want to see if I can pull this change in eclipse
 	
-	//1. I committed the second statement/comment from Git, the
+	//1. I committed the second statement/comment from Git, then
 	//2. I came to eclipse to add a comment(1st statement), then I attempted to commit and push
-	//3.committing was successful but the local master was not pushed to the origin(remote)
+	//3. Committing was successful but the local master was not pushed to the origin(remote)
 	//4.Therefore I had to pull from my class in eclipse , then resolve the conflict manually
 	//5.In git staging, migrate the class to the staged changes then commit and push( merges the local and branches)
 	//NB:
