@@ -24,7 +24,7 @@ public class HelloMiddleEarth
 	//5.In git staging, migrate the class to the staged changes then commit and push( merges the local and branches)
 	//NB:
 		//1. Always pull before working on anything
-		//2. commit then push
+		//2. commit then attempt to push
 		//3.resolve conflicts manually
 		//4. in git staging- drag from unstaged to staged changes then commit and push
 }
