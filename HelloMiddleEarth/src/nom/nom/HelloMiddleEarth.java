@@ -28,3 +28,6 @@ public class HelloMiddleEarth
 		//3.resolve conflicts manually 
 		//4. in git staging- drag from unstaged to staged changes and fix the conflict then commit and push
 }
+
+
+//NOW TRYING TO FETCH THIS CHANGE FROM ECLIPSE IN AN ALTERNATIVE WAY
