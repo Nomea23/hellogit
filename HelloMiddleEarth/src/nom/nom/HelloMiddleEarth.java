@@ -13,6 +13,4 @@ public class HelloMiddleEarth
 		}
 	}
 	//I am in eclipse and want to see if I can push this comment to github concurrently with the change made in git hub
-	
-
 }
