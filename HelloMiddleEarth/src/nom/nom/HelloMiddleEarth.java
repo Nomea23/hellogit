@@ -12,7 +12,7 @@ public class HelloMiddleEarth
 			System.out.println("Hello names: " + i);
 		}
 	}
-	
+	// I am adding a comment in Git and want to see if I can pull this change in eclipse
 	
 
 }
