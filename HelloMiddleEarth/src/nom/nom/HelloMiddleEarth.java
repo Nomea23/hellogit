@@ -12,5 +12,11 @@ public class HelloMiddleEarth
 			System.out.println("Hello names: " + i);
 		}
 	}
+<<<<<<< HEAD
 	//I am in eclipse and want to see if I can push this comment to github concurrently with the change made in git hub
+=======
+	// I am adding a comment in Git and want to see if I can pull this change in eclipse
+	
+
+>>>>>>> branch 'master' of https://github.com/Nomea23/hellogit.git
 }
